@@ -74,7 +74,7 @@
         $('.progress .progress-bar').each(function () {
             $(this).css("width", $(this).attr("aria-valuenow") + '%');
         });
-    }, {offset: '80%'});
+    }, {offset: '60%'});
 
 
     // Portfolio isotope and filter
